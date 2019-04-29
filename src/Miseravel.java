@@ -1,2 +1,6 @@
-public class Miseravel {
+public class Miseravel extends Pessoa {
+
+    public void mendiga (){
+        
+    }
 }
